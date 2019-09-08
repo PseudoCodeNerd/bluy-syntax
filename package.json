@@ -1,0 +1,19 @@
+{
+  "name": "bluy-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "dbluy: A High Contrast, Colorful Theme for Atom.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "bluy",
+    "Colorful",
+    "dbluy",
+    "madhav"
+  ],
+  "repository": "https://github.com/PseudoCodeNerd/bluy-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
