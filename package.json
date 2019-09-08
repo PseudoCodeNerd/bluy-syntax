@@ -1,7 +1,7 @@
 {
   "name": "bluy-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "dbluy: A High Contrast, Colorful Theme for Atom.",
   "keywords": [
     "syntax",
